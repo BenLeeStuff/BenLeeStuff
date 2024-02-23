@@ -12,6 +12,8 @@ I have 4 passions in life: Art, Coding, Teaching, and Skateboarding.  I've had t
 ### Company Six - ReadySight
 ![Image Name](./images/Company6.png)
 
+### K, Online
+![Image Name](./images/KOnline.png)
 
 ## Skills 
 iOS Development / Swift / Objective-C / SwiftUI / REST / Firebase / UIKit / UI Design / Sketch / Teaching / Skateboarding / Special Needs K-12 Mentoring 
