@@ -7,7 +7,10 @@ I have 4 passions in life: Art, Coding, Teaching, and Skateboarding.  I've had t
 ## Apps I've Worked On
 
 ### Major League Baseball
-![Image Name](./MLBApps.png)
+![Image Name](./images/MLBApps.png)
+
+### Company Six - ReadySight
+![Image Name](./images/Company6.png)
 
 
 ## Skills 
