@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ben Lee
+### Hi there 👋, Ben Lee
 #### Developer, Artist, Tutor & Skateboard Instructor
 At first I was a starving artist. Then I taught myself to code, now I combine them. Now, I'm no longer starving. 
 
@@ -9,6 +9,5 @@ Skills: Swift / Objective-C / SwiftUI / REST / Firebase / UIKit / UI Design / Sk
 - 🔭 I’m currently working on this page. 
 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Benjlee92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/benjjlee//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/benleestuff//)  
 
