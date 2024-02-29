@@ -1,13 +1,12 @@
 ### Hi there 👋, Ben Lee
 #### Developer, Artist, Tutor & Skateboard Instructor
-At first I was a starving artist. Then I taught myself to code, now I combine them. Now, I'm no longer starving. 
 
-I have 4 passions in life: Art, Coding, Teaching, and Skateboarding.  I've had the privilege to pursue these passions, working as a Designer, Software Developer, Special Needs K-12 CS & Maths Tutor, and Skateboarding Instructor.
+Art and Coding are two of my passions. I love combining them to create unique user experiences.
 
 ## Apps I've Worked On
 
 ### Major League Baseball
-![Image Name](./images/MLBApps.png)
+![Image Name](./images/MLBApps.png) 
 
 ### Company Six - ReadySight
 ![Image Name](./images/Company6.png)
