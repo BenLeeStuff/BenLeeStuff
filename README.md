@@ -14,11 +14,23 @@ Art and Coding are two of my passions. I love combining them to create unique us
     </td>
     <td align="center">
       <img src="images/milb.png" alt="App2" width="100" height="100" /><br />
-      MLB Ball Park 
+      MiLB 
     </td>
     <td align="center">
       <img src="images/ballpark.png" alt="App3" width="100" height="100" /><br />
-      MiLB
+      Ball Park
+    </td>
+    <td align="center">
+      <img src="images/co6.png" alt="App4" width="100" height="100" /><br />
+      Ready Sight
+    </td>
+    <td align="center">
+      <img src="images/co62.png" alt="App5" width="100" height="100" /><br />
+      CO6 Dev
+    </td>
+    <td align="center">
+      <img src="images/k.png" alt="App6" width="100" height="100" /><br />
+      K, Online
     </td>
   </tr>
 </table>
