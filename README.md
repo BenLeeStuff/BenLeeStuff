@@ -58,27 +58,39 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/mlb.png" alt="App1" width="100" height="100" /><br />
+      <a href="https://apps.apple.com/us/app/mlb/id493619333">
+        <img src="images/mlb.png" alt="App1" width="100" height="100" /><br />
+      </a>
       MLB 
     </td>
     <td align="center">
-      <img src="images/milb.png" alt="App2" width="100" height="100" /><br />
+      <a href="https://apps.apple.com/us/app/milb/id508217833">
+        <img src="images/milb.png" alt="App2" width="100" height="100" /><br />
+      </a>
       MiLB 
     </td>
     <td align="center">
-      <img src="images/ballpark.png" alt="App3" width="100" height="100" /><br />
-      Ball Park
+      <a href="https://apps.apple.com/us/app/mlb-ballpark/id513135722">
+        <img src="images/ballpark.png" alt="App3" width="100" height="100" /><br />
+      </a>
+      MLB Ball Park
     </td>
     <td align="center">
-      <img src="images/co6.png" alt="App4" width="100" height="100" /><br />
+      <a href="https://www.co6.com/">
+        <img src="images/co6.png" alt="App4" width="100" height="100" /><br />
+      </a>
       Ready Sight
     </td>
     <td align="center">
-      <img src="images/co62.png" alt="App5" width="100" height="100" /><br />
+      <a href="https://www.co6.com/">
+        <img src="images/co62.png" alt="App5" width="100" height="100" /><br />
+      </a>
       CO6 Dev
     </td>
     <td align="center">
-      <img src="images/k.png" alt="App6" width="100" height="100" /><br />
+      <a href="https://apps.apple.com/us/app/id1124224092">
+        <img src="images/k.png" alt="App6" width="100" height="100" /><br />
+      </a>
       K, Online
     </td>
   </tr>
