@@ -1,10 +1,10 @@
-### Hi there 👋, Ben Lee
-#### Developer, Artist, Tutor & Skateboard Instructor
+### Hey there 👋, I'm Ben! 
+#### At first I was a starving artist, then I taught myself to code. Now, I combine them. I'm no longer starving. 
 
-Art and Coding are two of my passions. I love combining them to create unique user experiences.
+
+Art and coding are my two passions in life, and to me, their intersection is what defines an application. I love playing with art and code to make new user experiences and finding new and interesting ways to combine them.   
 
 ## Apps I've Worked On
-
 
 <table>
   <tr>
